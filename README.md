@@ -15,7 +15,7 @@ ii) Type Command 1
  git checkout develop 
 Note: to type . in above command as you are seeing as it tells that git repository will be cloned to your current directory otherwise in your directory again project directory will come and you would have two git repository here.
 
-d) Create new branch as your email initials as create "user" branch for mail id <user@gmail.com> .
+d)** Create new branch as If you are from Group A, and your email is demo@gmail.com then create branch a-group-demo** .
 
   git checkout -b <Your Username>
   
