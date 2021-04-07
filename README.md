@@ -12,5 +12,5 @@ C)Create new branch in your git account forked repository according to your grou
  
 D) After finishing your task you have to push changes in this repository.
 
-D) Do also add snapshot or video of your work in the current directory.
+E) Do also add snapshot or video of your work in the current directory.
   
