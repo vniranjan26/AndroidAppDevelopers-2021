@@ -24,3 +24,41 @@ You would get latest changes in your branch and you can start workiing on your g
 When you all get blank project just change the SDK path given at local.properties to your own SDK path.
 
 If you are having issues no worry keep working on your forked repository , and then let me know your repository name where you have completed the task.
+
+
+**Gold Badge** 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+**Bronze Badge**                                          
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+**Silver Badge**
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+
